@@ -71,7 +71,7 @@ After your endpoint is added to the running server, you can test it by navigatin
 
 ## Contribution Guidelines
 
-Contributions to this repository are welcome! The name of your route file should be `userid.py`. If you find a bug, have an enhancement in mind, or want to add more features, feel free to open an issue or submit a pull request. Please make sure to follow the coding standards and add appropriate tests for any new functionality.
+Contributions to this repository are welcome! The name of your route file should be `userid.py`. In the place of userid, use your own userid. If you find a bug, have an enhancement in mind, or want to add more features, feel free to open an issue or submit a pull request. Please make sure to follow the coding standards and add appropriate tests for any new functionality.
 
 ## License
 
